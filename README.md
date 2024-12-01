@@ -1,7 +1,6 @@
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Passionate+Data+Science+Enthusiast;Developer+Exploring+AI+and+Machine+Learning!;Let's+Build+Impactful+Solutions+Together!" />  
-</p>  
----
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Data+Science+Professional+and+AI+Enthusiast;Dedicated+to+Solving+Complex+Problems+with+Machine+Learning+and+AI;Let's+Collaborate+and+Create+Innovative+Solutions!" />  
+</p>
 
 <h1 align="center">Hi there! 👋 I'm Nitish</h1>  
 <p align="center">  
