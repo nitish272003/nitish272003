@@ -9,12 +9,11 @@
   <em>Pursuing MSc in Data Science | Turning Data into Impactful Insights 💡</em>  
 </p>  
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=nitish272003&style=flat-square&color=blue" alt="Profile Views" />  
-  <a href="https://github.com/nitish272003/Deep-Learning-Projects/stargazers">  
-    <img src="https://img.shields.io/github/stars/nitish272003/Deep-Learning-Projects?style=flat-square&color=gold" alt="GitHub Stars" />  
-  </a>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitish272003&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/nitish272003/YOUR_REPO_NAME?style=flat-square&color=yellow" alt="GitHub Stars" />
 </p>
+
 
 ---
 
