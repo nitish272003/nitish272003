@@ -9,6 +9,13 @@
   <em>Pursuing MSc in Data Science | Turning Data into Impactful Insights 💡</em>  
 </p>  
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=nitish272003&style=flat-square&color=blue" alt="Profile Views" />  
+  <a href="https://github.com/nitish272003/Deep-Learning-Projects/stargazers">  
+    <img src="https://img.shields.io/github/stars/nitish272003/Deep-Learning-Projects?style=flat-square&color=gold" alt="GitHub Stars" />  
+  </a>  
+</p>
+
 ---
 
 ## 🌟 **About Me**  
@@ -18,7 +25,7 @@ I'm a dedicated **Data Science enthusiastic** and **Developer**, combining creat
 
 ✨ **Quick Facts:**  
 - 🔭 Currently working on **Hybrid Recommendation Systems** for personalized e-commerce recommendations.  
-- 🌱 Always learning: **Generative AI**, **Django**, ***Machine Learning**, **Deep Learning** and **Streamlit**.  
+- 🌱 Always learning: **Generative AI**, **Django**, **Machine Learning**, **Deep Learning** and **Streamlit**.  
 - 💡 Passionate about building scalable solutions for impactful industries.  
 
 ---
