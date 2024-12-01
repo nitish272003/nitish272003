@@ -18,7 +18,7 @@ I'm a dedicated **Data Science enthusiastic** and **Developer**, combining creat
 
 ✨ **Quick Facts:**  
 - 🔭 Currently working on **Hybrid Recommendation Systems** for personalized e-commerce recommendations.  
-- 🌱 Always learning: **Generative AI**, **Django**, and **Streamlit**.  
+- 🌱 Always learning: **Generative AI**, **Django**, ***Machine Learning**, **Deep Learning** and **Streamlit**.  
 - 💡 Passionate about building scalable solutions for impactful industries.  
 
 ---
