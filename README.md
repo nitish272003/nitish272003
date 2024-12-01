@@ -15,14 +15,6 @@
 
   <!-- Total Stars -->
   <img src="https://img.shields.io/github/stars/nitish272003?style=flat-square&color=yellow" alt="GitHub Stars" />
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish272003&show_icons=true&hide=prs&count_private=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-</p>
-
-<!-- Add a catchy logo -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-My%20GitHub%20Profile-blue?style=flat&logo=github" alt="GitHub Logo" />
 </p>
 
 ---
