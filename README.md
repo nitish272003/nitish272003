@@ -14,8 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=nitish272003&color=blue&style=flat-square" alt="Profile Views" />
 
   <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/nitish272003?style=flat-square&color=yellow" alt="GitHub Stars" />
-</p>
+  [![Github Stars](https://img.shields.io/github/stars/nitish272003?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+
 
 ---
 
