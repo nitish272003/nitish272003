@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Data+Science+Professional;Passionate+About+AI+and+Machine+Learning;Focusing+on+Innovative+Solutions+to+Real-World+Problems;Let's+Build+Something+Impactful+Together!" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&color=fcff33&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Data+Science+Enthusiast;Passionate+About+AI+and+Machine+Learning;Focusing+on+Innovative+Solutions+to+Real-World+Problems;Let's+Build+Something+Impactful+Together!" />  
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Nitish</h1>  
