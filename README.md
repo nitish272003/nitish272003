@@ -25,21 +25,7 @@ I'm a dedicated **Data Science enthusiastic** and **Developer**, combining creat
 
 ## 🔧 **Technical Toolbox**  
 
-<table align="center">
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" /></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="48px" alt="Django" /></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48px" alt="SQLite" /></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48px" alt="TensorFlow" /></td>
-</tr>
-<tr>
-  <td align="center">Python</td>
-  <td align="center">JavaScript</td>
-  <td align="center">Django</td>
-  <td align="center">SQLite</td>
-  <td align="center">TensorFlow</td>
-</tr>
-</table>  
+<table align="center"> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="48px" alt="Django" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48px" alt="TensorFlow" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48px" alt="R" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48px" alt="SQL" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48px" alt="Pandas" /></td> </tr> <tr> <td align="center">Python</td> <td align="center">Django</td> <td align="center">TensorFlow</td> <td align="center">R</td> <td align="center">SQL</td> <td align="center">Pandas</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48px" alt="Jupyter Notebook" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48px" alt="Power BI" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48px" alt="Excel" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48px" alt="Keras" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48px" alt="Matplotlib" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48px" alt="NumPy" /></td> </tr> <tr> <td align="center">Jupyter Notebook</td> <td align="center">Power BI</td> <td align="center">Excel</td> <td align="center">Keras</td> <td align="center">Matplotlib</td> <td align="center">NumPy</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="48px" alt="Scikit-learn" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="48px" alt="SciPy" /></td> </tr> <tr> <td align="center">Scikit-learn</td> <td align="center">SciPy</td> </tr> </table>
 
 ---
 
@@ -68,10 +54,8 @@ I'm a dedicated **Data Science enthusiastic** and **Developer**, combining creat
 ---
 
 
-Here's the continuation of the Technical Toolbox section for a clean and comprehensive layout:
-
-🔧 Technical Toolbox
-<table align="center"> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="48px" alt="Django" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48px" alt="TensorFlow" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48px" alt="R" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48px" alt="SQL" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48px" alt="Pandas" /></td> </tr> <tr> <td align="center">Python</td> <td align="center">Django</td> <td align="center">TensorFlow</td> <td align="center">R</td> <td align="center">SQL</td> <td align="center">Pandas</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48px" alt="Jupyter Notebook" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48px" alt="Power BI" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48px" alt="Excel" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48px" alt="Keras" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48px" alt="Matplotlib" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48px" alt="NumPy" /></td> </tr> <tr> <td align="center">Jupyter Notebook</td> <td align="center">Power BI</td> <td align="center">Excel</td> <td align="center">Keras</td> <td align="center">Matplotlib</td> <td align="center">NumPy</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="48px" alt="Scikit-learn" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="48px" alt="SciPy" /></td> </tr> <tr> <td align="center">Scikit-learn</td> <td align="center">SciPy</td> </tr> </table>
+## 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
 
 ---
 
