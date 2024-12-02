@@ -29,6 +29,12 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
 
 ---
 
+🚀 **Skills**
+Languages: Python, SQL, R, Java
+Tools: PowerBI, Tableau, Excel, VS Code, GitHub
+Operating Systems: Linux, Windows
+
+----
 ## 🔧 **Technical Toolbox**  
 
 <table align="center"> 
