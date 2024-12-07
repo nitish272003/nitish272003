@@ -110,8 +110,12 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
 
 ## 🏆 **Certifications**  
 
-- 🎖️ **Meta Django Web Framework** (Coursera)  
-- 🎖️ **Generative AI with Large Language Models** (Coursera)  
+<ul>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/WDF36UD8UN3A">Django Web Framework – Meta | Nov 2024</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/KHSV3DDC6AJ8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">Generative AI with Large Language Models – DeepLearning.AI | Jul 2024</a></li>
+  <li><a href="https://www.cloudskillsboost.google/public_profiles/89fa6db4-a2ef-4595-8ac0-2238a2270416/badges/10247626?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">Prompt Design in Vertex AI – Google Cloud Skills Boost | Jul 2024</a></li>
+  <li><a href="https://www.credly.com/badges/12e78d08-5670-4bf8-abaf-398ac7381df9/public_url">Introduction to Data Science – Cisco Networking Academy | Jun 2024</a></li>
+</ul>
 
 ---
 
