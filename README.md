@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&color=fcff33&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;I+am+a+Data+Science+Enthusiast;Passionate+About+AI+and+Machine+Learning;Focusing+on+Innovative+Solutions+to+Real-World+Problems;Let's+Build+Something+Impactful+Together!" />  
 </p>
 
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
+</p>
+
 <h1 align="center">Hi there! 👋 I'm Nitish</h1>  
 <p align="center">  
   <em>Pursuing MSc in Data Science | Turning Data into Impactful Insights 💡</em>  
