@@ -94,11 +94,11 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
 ## 📚 **Education**  
 
 🎓 **SASTRA University** (2023 - Present)  
-- Master of Science in Data Science | GPA: 8.7
+- Master of Science in Data Science | GPA: 8.0/10
 
 🎓 **The American College** (2020 - 2023)  
-- Bachelor of Science in Information Technology | GPA: 8.7  
-- Bachelor of Vocation in Data Science | GPA: 8.0  
+- Bachelor of Science in Information Technology | GPA: 8.7/10  
+- Bachelor of Vocation in Data Science | GPA: 8.0/10  
 
 ---
 
