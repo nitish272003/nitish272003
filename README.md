@@ -45,7 +45,7 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
 <table align="center"> 
   <tr> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" /></td> 
-    <td align="center"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="48px" alt="Django" /></td> 
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48px" alt="Django" /></td> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48px" alt="TensorFlow" /></td> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48px" alt="R" /></td> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48px" alt="SQL" /></td> 
