@@ -80,12 +80,14 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48px" alt="SciPy" /></td> 
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48px" alt="HTML" /></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48px" alt="CSS" /></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48px" alt="JS" /></td>
   </tr> 
   <tr> 
     <td align="center">Scikit-learn</td> 
     <td align="center">SciPy</td> 
     <td align="center">HTML</td>
     <td align="center">CSS</td>
+    <td align="center">JS</td>
   </tr> 
 </table>
 
