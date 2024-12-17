@@ -28,12 +28,34 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
 - 💡 Passionate about building scalable solutions for impactful industries.  
 - 📸 Passionate Visual Storyteller: Capturing moments, editing masterpieces, and crafting artistic wonders.
 - 🎯 Visionary Data Specialist: Turning innovative ideas into transformative data solutions.
+  
 ---
 
-🚀 **Skills**
-- Languages: Python, SQL, R, Java
-- Tools: PowerBI, Tableau, Excel, VS Code, GitHub
-- Operating Systems: Linux, Windows
+## 🚀 Skills
+
+### **Programming Languages**  
+- Python  
+- R Language  
+- SQL  
+
+### **Tools and Software**  
+- VS Code  
+- GitHub  
+
+### **Data Visualization Tools**  
+- Excel  
+- Power BI  
+- Tableau  
+
+### **Frameworks**  
+- Django  
+- Streamlit  
+
+### **AI Tools**  
+- OpenAI  
+- Google Vertex AI  
+- Gemini AI  
+
 
 ----
 ## 🔧 **Technical Toolbox**  
