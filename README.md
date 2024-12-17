@@ -89,14 +89,30 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
 
 ---
 
-## 📚 **Education**  
+## 🎓 Education
 
-🎓 **SASTRA University** (2023 - Present)  
-- Master of Science in Data Science | GPA: 8.0/10
+### **SASTRA University**  
+**Master of Science (M.Sc.) in Data Science**  
+- **Duration**: 2023 - 2025  
+- **Current CGPA**: 8.0  
+- **Location**: Thanjavur, Tamil Nadu  
 
-🎓 **The American College** (2020 - 2023)  
-- Bachelor of Science in Information Technology | GPA: 8.7/10  
-- Bachelor of Vocation in Data Science | GPA: 8.0/10  
+### **The American College**  
+**Bachelor of Science (B.Sc.) in Information Technology**  
+- **Duration**: 2020 - 2023  
+- **Final CGPA**: 8.7  
+- **Location**: Madurai, Tamil Nadu  
+
+**Bachelor of Vocation (B.Voc.) in Data Science**  
+- **Duration**: 2020 - 2023  
+- **Final CGPA**: 8.0  
+- **Location**: Madurai, Tamil Nadu  
+
+### **Zion Good Shepherds Matric Hr. Sec School**  
+**Higher Secondary Schooling (Comp Math)**  
+- **Duration**: 2019 - 2020  
+- **Percentage**: 64.3%  
+- **Location**: Madurai, Tamil Nadu  
 
 ---
 
