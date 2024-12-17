@@ -100,10 +100,45 @@ I'm a dedicated **Data Science enthusiast** and **Developer**, combining creativ
 
 ---
 
-## 🚀 **Projects in Action**  
+## 👨‍💻 Work Experience
 
-- **🛍️ Personalized Recommendations**: Hybrid system combining **Collaborative Filtering** and **Sentiment Analysis** for e-commerce.  
+### **ACIES Global** - *Data Science Intern*  
+**May 2024 – June 2024**  
+- Led technical implementations to solve real-world data challenges, collaborating across departments to enhance team coordination and achieve project goals.  
+- Contributed to improved operational insights by developing data-driven solutions, ensuring projects were planned and executed efficiently while meeting quality standards and delivery timelines.
 
+### **DESYNDEV** - *Full-Stack Developer & Data Analyst Intern*  
+**Jan 2023 – June 2023**  
+- Designed and developed full-stack applications using Python and Django, integrating data analysis features into web applications to provide valuable insights.  
+- Created data visualization dashboards using tools like Excel and Power BI to improve decision-making processes.  
+- Processed and analyzed datasets to deliver actionable insights that drove impactful results.
+
+---
+
+## 📂 Featured Projects
+
+### **Pediatric Cancer Research Portal**  
+*A Comprehensive Database for Mutation and Clinical Insights*  
+- A German-based ongoing project to build a pediatric mutation database, facilitating the organization and analysis of mutation and clinical data.  
+- Developed lollipop plot visualizations to represent mutation insights clearly, supporting pediatric cancer research.
+
+### **BERT-Driven Framework for Enhanced Sentiment Analysis and E-Commerce Recommendations**  
+- Combines sentiment analysis and collaborative filtering to refine personalized recommendations in e-commerce platforms.  
+- Utilized BERT-based methods and Singular Value Decomposition (SVD) to integrate sentiment insights into recommender systems, improving user preference capture.
+
+### **Modularized Machine Learning Tool Using Streamlit**  
+- Built a comprehensive data science tool with modular features for exploratory data analysis, preprocessing, advanced feature selection, and machine learning model building.  
+- Ensured efficient and adaptable analysis across various datasets.
+
+### **Automated Machine Learning-Based Credit Card Fraud Detection**  
+- Addressed financial losses from increasing credit card fraud by proposing an LSTM model with an attention mechanism.  
+- The solution outperformed traditional methods such as Naive Bayes, GRU, and ANN, demonstrating strong accuracy in detecting fraudulent transactions.
+
+### **Book Lending Platform and Chat Application**  
+- Developed a book lending platform and chat application UI using the Django framework.  
+- Enhanced user experience by integrating HTML, CSS, and Bootstrap.  
+- Implemented efficient book borrowing functionalities and real-time chat features.
+  
 ---
 
 ## 🏆 **Certifications**  
